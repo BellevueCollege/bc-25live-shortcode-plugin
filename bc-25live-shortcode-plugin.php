@@ -4,7 +4,7 @@ Plugin Name: Bellevue College 25Live Shortcodes Plugin
 Plugin URI: https://github.com/BellevueCollege/bc-25live-shortcode-plugin
 Description: 
 Author: Bellevue College Integration Team
-Version: 0.0.0-dev1
+Version: 1
 Author URI: http://www.bellevuecollege.edu
 */
 
